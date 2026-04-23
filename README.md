@@ -8,6 +8,7 @@ topology1.jpg
 NAT.jpg
 Ping-from-pc.jpg
 ip-route.jpg
+ospf1.jpg
 
  #Network Design
 Internal Network (LAN)
